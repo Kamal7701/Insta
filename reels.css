@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container-reels {
+  margin-left: 42%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 400px;
+}
+
+.Reel {
+  margin-bottom: 40px;
+  width: 100%;
+}
